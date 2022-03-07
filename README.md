@@ -1,2 +1,1 @@
-# react-grapql
-Next-grapql Authentication
+# react-graphql blog
