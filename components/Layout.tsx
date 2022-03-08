@@ -1,5 +1,5 @@
-import { FC } from 'react'
-import { Header } from './'
+import { FC } from 'react';
+import { Header } from './';
 
 const Layout: FC = ({ children }) => {
   return (
@@ -7,7 +7,7 @@ const Layout: FC = ({ children }) => {
       <Header />
       {children}
     </>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;

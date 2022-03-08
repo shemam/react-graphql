@@ -1,7 +1,7 @@
-import { FC } from 'react'
+import { FC } from "react";
 
 const PostWidgets: FC = () => {
-  return <div>PostWidgets</div>
-}
+  return <div>PostWidgets</div>;
+};
 
-export default PostWidgets
+export default PostWidgets;
